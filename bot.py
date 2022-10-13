@@ -7,7 +7,7 @@ TOKEN = "TRON"
 
 BOT_TOKEN = "YOUR BOT TOKEN"
 PAYMENT_CHANNEL = "@PAYMENTCHANNELUSERNAME" #add payment channel here including the '@' sign
-OWNER_ID = 1194007250 #write owner's user id here.. 
+OWNER_ID = 1910157517 #write owner's user id here.. 
 CHANNELS = ["@CHECKCHANNEL"] #add channels to be checked here in the format - ["Channel 1", "Channel 2"] 
               #you can add as many channels here and also add the '@' sign before channel username
 Daily_bonus = 0.001 #Put daily bonus amount here!
